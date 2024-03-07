@@ -33,11 +33,11 @@ ____
 
 Among its products, Alpine offers special [PXE-C80-88 amplifiers](https://www.alpine-usa.com/product/pxe-c80-88-optim8-sound-processor). The mobile and desktop applications are designed and implemented as a complement to these amplifiers, serving as a means for easy and precise manual or automatic EQ adjustment by interacting with a plotted graph to enhance audio experience or sound characteristics.
 
-Platforms: iOS Mobile and Desktop
-Link to App Store: [here](https://apps.apple.com/us/app/pxe-c80-c60/id6444423958)
-Phases of my involvement: from start to finish
-Total size of Flutter team: 2
-State management: GetX
+Platforms: iOS Mobile and Desktop  
+Link to App Store: [here](https://apps.apple.com/us/app/pxe-c80-c60/id6444423958)  
+Phases of my involvement: from start to finish  
+Total size of Flutter team: 2  
+State management: GetX  
 
 **My contributions:**
 
@@ -61,10 +61,10 @@ ____
 
 Salt Strong improves fishing experie)nces by giving its subscribers helpful fishing insights and recommending the best nearby fishing spots based on the fishing-related metrics.
 
-Link to App Store: [here](https://apps.apple.com/us/app/smart-fishing-spots/id6459022829)
-Total size of Flutter team: 3
-Phases of my involvement: I joined the team later, in the second half of the development process, to meet the delivery deadline.
-State management: Riverpod
+Link to App Store: [here](https://apps.apple.com/us/app/smart-fishing-spots/id6459022829)  
+Total size of Flutter team: 3  
+Phases of my involvement: I joined the team later, in the second half of the development process, to meet the delivery deadline  
+State management: Riverpod  
 
 **My contributions:**
 - search bar for finding addresses using Google API and locating them on the map
@@ -82,15 +82,15 @@ ____
 The MVP application, still in its early development stages. It's a part of a smart anchoring system that provides users with insights into the anchor's location via the buoy it's attached to. The mobile application communicates with the device, establishing a BLE connection, and receives real-time GPS locations of the buoy. The current buoy location is displayed on Google Maps, along with other received data such as signal strength and battery status. Users receive alerts through notifications and sound signals when a deviation from an acceptable geographic boundary is detected in the buoy's location.
 
 
-Total size of Flutter team: 2
-Phases of my involvement: At the beginning of our collaboration, the clients already had an MVP application with basic features. My responsibility was to implement fixes based on their requests.
-State management: stateful widget
+Total size of Flutter team: 2  
+Phases of my involvement: At the beginning of our collaboration, the clients already had an MVP application with basic features. My responsibility was to implement fixes based on their requests  
+State management: stateful widget  
 
 **My contributions:**
-- researching, testing, and debugging BLE connection
-- fixing the algorithm that collects and encodes data from the base device
-- implementing sound alarms and local notifications for critical deviations
-- researching and addressing cases of consecutive disconnections
+- researching, testing, and debugging BLE connection  
+- fixing the algorithm that collects and encodes data from the base device  
+- implementing sound alarms and local notifications for critical deviations  
+- researching and addressing cases of consecutive disconnections  
 
 ____  
 
@@ -100,10 +100,10 @@ ____
 
 An application suitable for sending money to people abroad, as well as other ways of managing personal finances.
 
-Link to App Store: [here](https://apps.apple.com/us/app/worldcom-finance/id1557852337)
-Total size of Flutter team: 3 (I joined a team organized by the client. I was the only one from my company on this project.)
-Phases of my involvement: From start to finish (with a colleague starting a week before me)
-State management: GetX
+Link to App Store: [here](https://apps.apple.com/us/app/worldcom-finance/id1557852337)  
+Total size of Flutter team: 3 (I joined a team organized by the client. I was the only one from my company on this project.)  
+Phases of my involvement: From start to finish (with a colleague starting a week before me)  
+State management: GetX  
 
 **My contributions:**
 
