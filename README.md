@@ -1,5 +1,5 @@
 # Cinnamon-Flutter-Projects
-Descriptions of projects that I worked on as a Flutter developer at Cinnamon Agency
+Descriptions of some of the projects that I worked on as a Flutter developer at Cinnamon Agency
 
 
 ## Return Valets
