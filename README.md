@@ -111,3 +111,54 @@ State management: GetX
 - implementing functionalities as per client's vision, UI based on specific designs from Figma
 - REST API integration
 - code refactoring
+
+____________  
+
+### Some Flutter packages I used:
+
+SPECIAL FEATURES AND FUNCTIONALITIES
+**oauth2_client:** OAuth 2.0 client implementation used for social login
+**flutter_local_notifications:** For event-triggered app alerts
+**just_audio:** Playing an alarm sound
+**flutter_reactive_ble:** BLE (Bluetooth Low Energy) integration for Flutter, used for connecting with Raspberry Pi devices
+**purchases_flutter:** In-app purchases integration
+
+UI
+**lottie:** Smooth animation rendering
+**fl_chart:** For custom and interactive charts
+**flutter_screenutil:** Responsive UI
+**cached_network_image:** Efficient image loading
+**flutter_svg:** Displaying SVG data
+**image_picker:** Device image access
+**flutter_native_splash:** For effective splash screen
+**flutter_launcher_icons:** Custom launcher design
+**qr_code_scanner:** Package barcode scanning
+
+MAPS
+**google_maps_flutter:** Google Maps integration
+**google_static_maps_controller:** Static Google Maps location view
+**location:** For getting the device location
+**geolocator:** Geolocation services
+**flutter_google_places_sdk:** Integration with Google Places API for search predictions
+**geocoding:** Easy geocoding and reverse-geocoding features
+
+LOCAL STORAGE
+**get_storage:** Lightweight key-value storage
+**objectbox:** Object-oriented database
+**flutter_secure_storage:** Secure key-value storage
+
+NETWORK
+**retrofit, dio:** HTTP client generators for easy REST API integration
+
+DATA MODELS
+**freezed:** Immutable data classes and unions
+**json_annotation:** Annotations for JSON serialization, used for REST API data models
+**json_serializable:** Automatically generate code for converting to and from JSON
+
+OTHER
+**intl:** Internationalization and localization support
+**build_runner:** Code generation tool
+**logger:** Small and extensible logger for different developer modes
+**flutter_hooks:** React-style hooks used with Riverpod
+**flutter_dotenv:** Environment variables loader for sensitive data
+**permission_handler:** Manages permission requests
