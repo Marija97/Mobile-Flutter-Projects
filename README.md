@@ -7,12 +7,12 @@ Descriptions of projects that I worked on as a Flutter developer at Cinnamon Age
 
 This mobile application facilitates the return of purchased products in certain states of the USA. It allows users to schedule pickup returns from delivery agencies at their addresses and ensures the safe delivery of products to the desired destination.
 
-Link to App Store: [here](https://apps.apple.com/us/app/return-valets/id1627509692)
-Total size of Flutter team: 2
-Phases of my involvement: joined a colleague in early development stages and participated until completion
-State management: GetX
+Link to App Store: [here](https://apps.apple.com/us/app/return-valets/id1627509692)  
+Total size of Flutter team: 2  
+Phases of my involvement: joined a colleague in early development stages and participated until completion  
+State management: GetX  
 
-##### My contributions:
+**My contributions:**
 
 - replication of UI from provided design in Figma
 - REST API integration, 
@@ -39,7 +39,7 @@ Phases of my involvement: from start to finish
 Total size of Flutter team: 2
 State management: GetX
 
-##### My contributions:
+**My contributions:**
 
 - precise implementation of planned design for all parts of the application, including the challenging part with the graph
 - smart clean-code solution to support 3 different variants of UI design for corresponding screen state and availability: portrait mode on mobile device, landscape mode on mobile device, and the desktop application itself
@@ -66,7 +66,7 @@ Total size of Flutter team: 3
 Phases of my involvement: I joined the team later, in the second half of the development process, to meet the delivery deadline.
 State management: Riverpod
 
-##### My contributions:
+**My contributions:**
 - search bar for finding addresses using Google API and locating them on the map
 - authentication flow (login, registration, password recovery), specially designed validator methods for input data
 - bug fixes before deployment
@@ -86,7 +86,7 @@ Total size of Flutter team: 2
 Phases of my involvement: At the beginning of our collaboration, the clients already had an MVP application with basic features. My responsibility was to implement fixes based on their requests.
 State management: stateful widget
 
-##### My contributions:
+**My contributions:**
 - researching, testing, and debugging BLE connection
 - fixing the algorithm that collects and encodes data from the base device
 - implementing sound alarms and local notifications for critical deviations
@@ -105,7 +105,7 @@ Total size of Flutter team: 3 (I joined a team organized by the client. I was th
 Phases of my involvement: From start to finish (with a colleague starting a week before me)
 State management: GetX
 
-##### My contributions:
+**My contributions:**
 
 - improving project structure, proposing rules for higher-quality and sustainable code
 - implementing functionalities as per client's vision, UI based on specific designs from Figma
