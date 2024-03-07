@@ -63,7 +63,7 @@ Salt Strong improves fishing experie)nces by giving its subscribers helpful fish
 
 Link to App Store: [here](https://apps.apple.com/us/app/smart-fishing-spots/id6459022829)  
 Total size of Flutter team: 3  
-Phases of my involvement: I joined the team later, in the second half of the development process, to meet the delivery deadline  
+Phases of my involvement: I joined the team later, in the second half of the development process, to help in meeting the agreed deadline for delivery  
 State management: Riverpod  
 
 **My contributions:**
