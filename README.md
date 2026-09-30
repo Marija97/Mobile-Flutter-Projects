@@ -1,6 +1,30 @@
+
+## EmergenSEA
+#### [EmergenSEA](https://www.emergensea.net/en/emergensea_live_tracking_app/161/9)
+
+This mobile application provides live location tracking and emergency alert functionality, designed specifically for use in maritime environments where mobile connectivity can be limited or unreliable. The application continuously tracks the user's location and can trigger alerts when necessary, making it suitable for safety and emergency situations at sea.
+
+Platforms: iOS and Android
+Link to the Play Store: [here](https://play.google.com/store/apps/details?id=net.emergensea.app) 
+Total size of Flutter team: 1  
+Phases of my involvement: full development lifecycle — from initial setup and development to completion and deployment as a freelance developer
+State management: BLoC
+
+**My contributions:**
+
+- complete development of the application from scratch 
+- replication and implementation of the provided UI/UX design
+- implementation of live GPS location tracking
+- background location tracking and handling of location updates
+- implementation of location-based safety functionality for maritime environments
+- REST API integration
+- Firebase Crashlytics integration for crash reporting and monitoring
+- testing, debugging, and performance improvements
+- application configuration and preparation for production release
+- deployment of the completed application to the Google Play Store
+
 # Cinnamon-Flutter-Projects
 Descriptions of some of the projects that I worked on as a Flutter developer at Cinnamon Agency
-
 
 ## Return Valets
 #### [Return Valets, LLC](https://www.returnvalets.com/)
